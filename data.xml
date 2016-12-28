@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+	<products>
+	<product wcpc="" id="1" category="1">
+		<name>HP ENVY Spectre XT</name>
+		<description>The Ultrabook™ for those who want style without sacrificing substance.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+			<feature>12</feature>
+		</features>	
+		<media>
+			<images>
+				<img src="images/01_category_ultimate_ENVYXT.png" type="default"/>
+				<color value="" id="12">
+					<img src="images/01_ENVYXT_FrontOpen.png" th_url="images/01_ENVYXT_FrontOpen_thumb.png"/>
+					<img src="images/02_ENVYXT_FrontRightOpen.png" th_url="images/02_ENVYXT_FrontRightOpen_thumb.png"/>
+					<img src="images/03_ENVYXT_RearRightOpen.png" th_url="images/03_ENVYXT_RearRightOpen_thumb.png"/>
+					<img src="images/04_ENVYXT_RearOpen.png" th_url="images/04_ENVYXT_RearOpen_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Thin and light with premium materials unlike anything you've seen from HP. Carry less. Do more.</details_header>
+		<key_features>
+			<ul>
+				<li>Thin and light with premium materials unlike anything you've seen from HP. Carry less. Do more.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, CoolSense, and TrueVision HD Webcam.*</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>2-year Norton™ Internet Security and 1-year Absolute Data Protect subscriptions; Adobe® Photoshop® and Premiere® Elements preinstalled; HP Platinum Support.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>
+	<product wcpc="" id="2" category="1">
+		<name>HP ENVY 14 Spectre</name>
+		<description>Like no other PC on the planet with a glass design that weighs under 4 lbs.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+			<feature>10</feature>
+			<feature>11</feature>
+			<feature>12</feature>
+		</features>	
+		<media>
+			<images>
+				<img src="images/02_category_ultimate_ENVY14.png" type="default"/>
+				<color value="" id="4">
+					<img src="images/01_ENVY14_FrontOpen.png" th_url="images/01_ENVY14_FrontOpen_thumb.png"/>
+					<img src="images/02_ENVY14_FrontRightOpen.png" th_url="images/02_ENVY14_FrontRightOpen_thumb.png"/>
+					<img src="images/03_ENVY14_RearRightOpen.png" th_url="images/03_ENVY14_RearRightOpen_thumb.png"/>
+					<img src="images/04_ENVY14_RearOpen.png" th_url="images/04_ENVY14_RearOpen_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+				<video name="Backlit Keyboard" src="videos/feature_backlitkeyboard.m4v" icon="videos/video_backlitkeyboard_thumb.png"/>
+				<video name="Wireless Audio" src="videos/feature_wirelessaudio.m4v" icon="videos/video_wirelessaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>The premium Ultrabook™ that defies conventional design with an unparalleled use of glass inside and out.</details_header>
+		<key_features>
+			<ul>
+				<li>The premium Ultrabook™ that defies conventional design with an unparalleled use of glass inside and out.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, CoolSense, and TrueVision HD Webcam.*</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP Wireless Audio: Stream music to wireless speakers and devices.</li>
+				<li>HP Radiance Backlit Keyboard: Watch it light up and dim down automatically to save power.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>
+	<product wcpc="" id="3" category="1">
+		<name>HP ENVY 15</name>
+		<description>Enjoy incredible multimedia and get work done faster.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+			<feature>10</feature>
+			<feature>11</feature>
+			<feature>12</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/03_category_ultimate_ENVY15.png" type="default"/>
+				<color value="" id="4">
+					<img src="images/01_ENVY15_FrontOpen.png" th_url="images/01_ENVY15_FrontOpen_thumb.png"/>
+					<img src="images/02_ENVY15_FrontRightOpen.png" th_url="images/02_ENVY15_FrontRightOpen_thumb.png"/>
+					<img src="images/03_ENVY15_RearRightOpen.png" th_url="images/03_ENVY15_RearRightOpen_thumb.png"/>
+					<img src="images/04_ENVY15_RearOpen.png" th_url="images/04_ENVY15_RearOpen_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+				<video name="Backlit Keyboard" src="videos/feature_backlitkeyboard.m4v" icon="videos/video_backlitkeyboard_thumb.png"/>
+				<video name="Wireless Audio" src="videos/feature_wirelessaudio.m4v" icon="videos/video_wirelessaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Blazing fast wake up and boot times, wireless audio, and a gorgeous 15-inch diagonal display.</details_header>
+		<key_features>
+			<ul>
+				<li>Blazing fast wake up and boot times, wireless audio, and a gorgeous 15-inch diagonal display.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, ProtectSmart, CoolSense, and TrueVision HD Webcam.*</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP Wireless Audio: Stream music to wireless speakers and devices.</li>
+				<li>HP Radiance Backlit Keyboard: Watch it light up and dim down automatically to save power.</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>	
+	<product wcpc="" id="4" category="1">
+		<name>HP ENVY 17</name>
+		<description>Higher performance and a larger screen. There’s more to envy than ever.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+			<feature>10</feature>
+			<feature>11</feature>
+			<feature>12</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/04_category_ultimate_ENVY17.png" type="default"/>
+				<color value="" id="4">
+					<img src="images/01_ENVY17_FrontOpen.png" th_url="images/01_ENVY17_FrontOpen_thumb.png"/>
+					<img src="images/02_ENVY17_FrontRightOpen.png" th_url="images/02_ENVY17_FrontRightOpen_thumb.png"/>
+					<img src="images/03_ENVY17_RearRightOpen.png" th_url="images/03_ENVY17_RearRightOpen_thumb.png"/>
+					<img src="images/04_ENVY17_RearOpen.png" th_url="images/04_ENVY17_RearOpen_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+				<video name="Backlit Keyboard" src="videos/feature_backlitkeyboard.m4v" icon="videos/video_backlitkeyboard_thumb.png"/>
+				<video name="Wireless Audio" src="videos/feature_wirelessaudio.m4v" icon="videos/video_wirelessaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Blazing fast wake up and boot times, wireless audio, and a gorgeous 17-inch diagonal display.</details_header>
+		<key_features>
+			<ul>
+				<li>Blazing fast wake up and boot times, wireless audio, and a gorgeous 17-inch diagonal display.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, ProtectSmart, CoolSense, and TrueVision HD Webcam.*</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP Wireless Audio: Stream music to wireless speakers and devices.</li>
+				<li>HP Radiance Backlit Keyboard: Watch it light up and dim down automatically to save power.</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>	
+	<product wcpc="" id="5" category="1">
+		<name>HP ENVY 17 3D</name>
+		<description>All the performance you’d expect from ENVY with an amazing 3D display.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+			<feature>10</feature>
+			<feature>11</feature>
+			<feature>12</feature>
+			<feature>13</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/05_category_ultimate_ENVY173d.png" type="default"/>
+				<color value="" id="4">
+					<img src="images/01_ENVY173D_FrontOpen.png" th_url="images/01_ENVY173D_FrontOpen_thumb.png"/>
+					<img src="images/02_ENVY173D_FrontRightOpen.png" th_url="images/02_ENVY173D_FrontRightOpen_thumb.png"/>
+					<img src="images/03_ENVY173D_RearRightOpen.png" th_url="images/03_ENVY173D_RearRightOpen_thumb.png"/>
+					<img src="images/04_ENVY173D_RearOpen.png" th_url="images/04_ENVY173D_RearOpen_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+				<video name="Backlit Keyboard" src="videos/feature_backlitkeyboard.m4v" icon="videos/video_backlitkeyboard_thumb.png"/>
+				<video name="Wireless Audio" src="videos/feature_wirelessaudio.m4v" icon="videos/video_wirelessaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Blazing fast wake up and boot times, wireless audio, and a gorgeous 17-inch diagonal 3D display.</details_header>
+		<key_features>
+			<ul>
+				<li>Blazing fast wake up and boot times, wireless audio, and a gorgeous 17-inch diagonal 3D display.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, ProtectSmart, CoolSense, and TrueVision HD Webcam.*</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP Wireless Audio: Stream music to wireless speakers and devices.</li>
+				<li>HP Radiance Backlit Keyboard: Watch it light up and dim down automatically to save power.</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>
+	
+	<product wcpc="" id="6" category="2">
+		<name>HP Pavilion dm4</name>
+		<description>Meet the thin notebook that’s big on performance. Includes cooling technology and extra security.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>7</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/06_category_best_dm4.png" type="default"/>
+				<color value="" id="18">
+					<img src="images/01_dm4_FrontOpen_SteelGray.png" th_url="images/01_dm4_FrontOpen_SteelGray_thumb.png"/>
+					<img src="images/02_dm4_FrontRightOpen_SteelGray.png" th_url="images/02_dm4_FrontRightOpen_SteelGray_thumb.png"/>
+					<img src="images/03_dm4_RearRightOpen_SteelGray.png" th_url="images/03_dm4_RearRightOpen_SteelGray_thumb.png"/>
+					<img src="images/04_dm4_RearOpen_SteelGray.png" th_url="images/04_dm4_RearOpen_SteelGray_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="SimplePass" src="videos/feature_simplepass.m4v" icon="videos/video_simplepass_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Fully loaded with HP exclusives, plus video calling and HD movies in a lightweight design.*</details_header>
+		<key_features>
+			<ul>
+				<li>Fully loaded with HP exclusives, plus video calling and HD movies in a lightweight design.*</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, and Premier Experience.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP TrueVision HD with Skype: Capture video or chat in brilliant HD—even in low light.*</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+				<li>HP SimplePass: Store and protect passwords using only your fingerprint.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>	
+	<product wcpc="" id="7" category="2">
+		<name>HP Pavilion dm4 Beats Edition™</name>
+		<description>It’s the dm4 notebook that marches to a different beat—with a built-in subwoofer.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>7</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/07_category_best_dm4beats.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_dm4Beats_FrontOpen.png" th_url="images/01_dm4Beats_FrontOpen_thumb.png"/>
+					<img src="images/02_dm4Beats_FrontRightOpen.png" th_url="images/02_dm4Beats_FrontRightOpen_thumb.png"/>
+					<img src="images/03_dm4Beats_RearRightOpen.png" th_url="images/03_dm4Beats_RearRightOpen_thumb.png"/>
+					<img src="images/04_dm4Beats_RearOpen.png" th_url="images/04_dm4Beats_RearOpen_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="SimplePass" src="videos/feature_simplepass.m4v" icon="videos/video_simplepass_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Fully loaded with Beats Audio™, plus video calling and HD movies in a lightweight design.*</details_header>
+		<key_features>
+			<ul>
+				<li>Fully loaded with Beats Audio™, plus video calling and HD movies in a lightweight design.*</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Setup Manager, Support Assistant, and Premier Experience.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP TrueVision HD with Skype: Capture video or chat in brilliant HD—even in low light.*</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+				<li>HP SimplePass: Store and protect passwords using only your fingerprint.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>	
+	<product wcpc="" id="8" category="2">
+		<name>HP Pavilion dv6</name>
+		<description>Serious entertainment in a stylish brushed aluminum design. Enjoy four speakers with outstanding sound.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>7</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/08_category_best_dv6.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_dv6_FrontOpen_MidnightBlack.png" th_url="images/01_dv6_FrontOpen_MidnightBlack_thumb.png"/>
+					<img src="images/02_dv6_FrontRightOpen_MidnightBlack.png" th_url="images/02_dv6_FrontRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/03_dv6_RearRightOpen_MidnightBlack.png" th_url="images/03_dv6_RearRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/04_dv6_RearOpen_MidnightBlack.png" th_url="images/04_dv6_RearOpen_MidnightBlack_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="SimplePass" src="videos/feature_simplepass.m4v" icon="videos/video_simplepass_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Four speakers for serious entertainment, plus Beats Audio™, cooling technology, and more.</details_header>
+		<key_features>
+			<ul>
+				<li>Four speakers for serious entertainment, plus Beats Audio™, cooling technology and more.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, and Premier Experience.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP TrueVision HD with Skype: Capture video or chat in brilliant HD—even in low light.*</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+				<li>HP SimplePass: Store and protect passwords using only your fingerprint.</li>
+			</ul>
+				<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>	
+	<product wcpc="" id="9" category="2">
+		<name>HP Pavilion m6</name>
+		<description>Enjoy mobility, performance, and entertainment with a slim design and a 15-inch diagonal display.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>7</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/09_category_best_m6.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_m6_FrontOpen_MidnightBlack.png" th_url="images/01_m6_FrontOpen_MidnightBlack_thumb.png"/>
+					<img src="images/02_m6_FrontRightOpen_MidnightBlack.png" th_url="images/02_m6_FrontRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/03_m6_RearRightOpen_MidnightBlack.png" th_url="images/03_m6_RearRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/04_m6_RearOpen_MidnightBlack.png" th_url="images/04_m6_RearOpen_MidnightBlack_thumb.png"/>
+				</color>
+				<color value="" id="12">
+					<img src="images/01_m6_FrontOpen_NaturalSilver.png" th_url="images/01_m6_FrontOpen_NaturalSilver_thumb.png"/>
+					<img src="images/02_m6_FrontRightOpen_NaturalSilver.png" th_url="images/02_m6_FrontRightOpen_NaturalSilver_thumb.png"/>
+					<img src="images/03_m6_RearRightOpen_NaturalSilver.png" th_url="images/03_m6_RearRightOpen_NaturalSilver_thumb.png"/>
+					<img src="images/04_m6_RearOpen_NaturalSilver.png" th_url="images/04_m6_RearOpen_NaturalSilver_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="SimplePass" src="videos/feature_simplepass.m4v" icon="videos/video_simplepass_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Beats Audio™, a subwoofer, and a backlit keyboard packed into a super slim aluminum design.</details_header>
+		<key_features>
+			<ul>
+				<li>Beats Audio™, a subwoofer, and a backlit keyboard packed into a super slim aluminum design.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, Premier Experience, MyRoom, and CoolSense.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP SimplePass: Easily access online accounts with a simple swipe of your finger.</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP TrueVision HD Webcam: Always look your best, even in low light.*</li>
+			</ul>	
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>	
+	<product wcpc="" id="10" category="2">
+		<name>HP Pavilion dv7</name>
+		<description>The ultimate in entertainment with a subwoofer and a gorgeous 17-inch diagonal HD display.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>7</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/10_category_best_dv7.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_dv7_FrontOpen_MidnightBlack.png" th_url="images/01_dv7_FrontOpen_MidnightBlack_thumb.png"/>
+					<img src="images/02_dv7_FrontRightOpen_MidnightBlack.png" th_url="images/02_dv7_FrontRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/03_dv7_RearRightOpen_MidnightBlack.png" th_url="images/03_dv7_RearRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/04_dv7_RearOpen_MidnightBlack.png" th_url="images/04_dv7_RearOpen_MidnightBlack_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="SimplePass" src="videos/feature_simplepass.m4v" icon="videos/video_simplepass_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Get Beats Audio™ sound plus a subwoofer for amazingly immersive music and movies.</details_header>
+		<key_features>
+			<ul>
+				<li>Get Beats Audio™ sound plus a subwoofer for amazingly immersive music and movies.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, MyRoom, and Premier Experience.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP TrueVision HD with Skype: Capture video or chat in brilliant HD—even in low light.*</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+				<li>HP SimplePass: Store and protect passwords using only your fingerprint.</li>
+			</ul>	
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>	
+	<product wcpc="" id="11" category="2">
+		<name>HP Pavilion m7</name>
+		<description>Enjoy mobility, performance, and entertainment with a slim design and 17-inch diagonal display.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>7</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/11_category_best_m7.png" type="default"/>
+				<color value="" id="12">
+					<img src="images/01_m7_FrontOpen_NaturalSilver.png" th_url="images/01_m7_FrontOpen_NaturalSilver_thumb.png"/>
+					<img src="images/02_m7_FrontRightOpen_NaturalSilver.png" th_url="images/02_m7_FrontRightOpen_NaturalSilver_thumb.png"/>
+					<img src="images/03_m7_RearRightOpen_NaturalSilver.png" th_url="images/03_m7_RearRightOpen_NaturalSilver_thumb.png"/>
+					<img src="images/04_m7_RearOpen_NaturalSilver.png" th_url="images/04_m7_RearOpen_NaturalSilver_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="SimplePass" src="videos/feature_simplepass.m4v" icon="videos/video_simplepass_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Beats Audio™, a subwoofer, and a backlit keyboard packed into a super slim aluminum design.</details_header>
+		<key_features>
+			<ul>
+				<li>Beats Audio™, a subwoofer, and a backlit keyboard packed into a super slim aluminum design.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant, Premier Experience, MyRoom, and CoolSense.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP SimplePass: Easily access online accounts with a simple swipe of your finger.</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP TrueVision HD Webcam: Always look your best, even in low light.*</li>
+			</ul>	
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>
+	<product wcpc="" id="12" category="2">
+		<name>HP ENVY 6 Sleekbook</name>
+		<description>Grab this Sleekbook and go with Beats Audio™, a soft touch base, and a 15-inch design.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/12_category_best_ENVY6Sleekbook.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_ENVY6Sleekbook_FrontOpen_MidnightBlack.png" th_url="images/01_ENVY6Sleekbook_FrontOpen_MidnightBlack_thumb.png"/>
+					<img src="images/02_ENVY6Sleekbook_FrontRightOpen_MidnightBlack.png" th_url="images/02_ENVY6Sleekbook_FrontRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/03_ENVY6Sleekbook_RearRightOpen_MidnightBlack.png" th_url="images/03_ENVY6Sleekbook_RearRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/04_ENVY6Sleekbook_RearOpen_MidnightBlack.png" th_url="images/04_ENVY6Sleekbook_RearOpen_MidnightBlack_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Small and light but big on sound with Beats Audio™, dual speakers, and a subwoofer.</details_header>
+		<key_features>
+			<ul>
+				<li>Small and light but big on sound with Beats Audio™, dual speakers, and a subwoofer.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Premier Experience, Support Assistant, and CoolSense.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP TrueVision HD Webcam: Always look your best, even in low light.*</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>	
+	<product wcpc="" id="13" category="2">
+		<name>HP ENVY 4 Sleekbook</name>
+		<description>Grab this Sleekbook and go with Beats Audio™, a soft touch base, and a 14-inch design.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/13_category_best_ENVY4Sleekbook.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_ENVY4Sleekbook_FrontOpen_MidnightBlack.png" th_url="images/01_ENVY4Sleekbook_FrontOpen_MidnightBlack_thumb.png"/>
+					<img src="images/02_ENVY4Sleekbook_FrontRightOpen_MidnightBlack.png" th_url="images/02_ENVY4Sleekbook_FrontRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/03_ENVY4Sleekbook_RearRightOpen_MidnightBlack.png" th_url="images/03_ENVY4Sleekbook_RearRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/04_ENVY4Sleekbook_RearOpen_MidnightBlack.png" th_url="images/04_ENVY4Sleekbook_RearOpen_MidnightBlack_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Small and light but big on sound with Beats Audio™, dual speakers, and a subwoofer.</details_header>
+		<key_features>
+			<ul>
+				<li>Small and light but big on sound with Beats Audio™, dual speakers, and a subwoofer.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Premier Experience, Support Assistant, and CoolSense.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP TrueVision HD Webcam: Always look your best, even in low light.*</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>
+	<product wcpc="" id="14" category="2">
+		<name>HP ENVY 4 Ultrabook™</name>
+		<description>Grab this Ultrabook and go with Beats Audio™, a soft touch base, and a 14-inch design.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+			<feature>9</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/14_category_best_ENVY4Ultrabook.png" type="default"/>
+				<color value="" id="11">
+					<img src="images/01_ENVY4Ultrabook_FrontOpen_MidnightBlack.png" th_url="images/01_ENVY4Ultrabook_FrontOpen_MidnightBlack_thumb.png"/>
+					<img src="images/02_ENVY4Ultrabook_FrontRightOpen_MidnightBlack.png" th_url="images/02_ENVY4Ultrabook_FrontRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/03_ENVY4Ultrabook_RearRightOpen_MidnightBlack.png" th_url="images/03_ENVY4Ultrabook_RearRightOpen_MidnightBlack_thumb.png"/>
+					<img src="images/04_ENVY4Ultrabook_RearOpen_MidnightBlack.png" th_url="images/04_ENVY4Ultrabook_RearOpen_MidnightBlack_thumb.png"/>
+				</color>
+				<color value="" id="12">
+					<img src="images/01_ENVY4Ultrabook_FrontOpen_NaturalSilver.png" th_url="images/01_ENVY4Ultrabook_FrontOpen_NaturalSilver_thumb.png"/>
+					<img src="images/02_ENVY4Ultrabook_FrontRightOpen_NaturalSilver.png" th_url="images/02_ENVY4Ultrabook_FrontRightOpen_NaturalSilver_thumb.png"/>
+					<img src="images/03_ENVY4Ultrabook_RearRightOpen_NaturalSilver.png" th_url="images/03_ENVY4Ultrabook_RearRightOpen_NaturalSilver_thumb.png"/>
+					<img src="images/04_ENVY4Ultrabook_RearOpen_NaturalSilver.png" th_url="images/04_ENVY4Ultrabook_RearOpen_NaturalSilver_thumb.png"/>
+				</color>
+
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+				<video name="Imagepad" src="videos/feature_imagepad.m4v" icon="videos/video_imagepad_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Small and light but big on sound with Beats Audio™, dual speakers, and a subwoofer.</details_header>
+		<key_features>
+			<ul>
+				<li>Small and light but big on sound with Beats Audio™, dual speakers, and a subwoofer.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Premier Experience, Support Assistant, and CoolSense.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP Imagepad: Simply touch to scroll, zoom, and rotate images and web pages.</li>
+				<li>Beats Audio™: Designed for the best sounding, richest audio available on a PC.</li>
+				<li>HP TrueVision HD Webcam: Always look your best, even in low light.*</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>
+	<product wcpc="" id="15" category="3">
+		<name>HP Pavilion dm1</name>
+		<description>Get the power of notebook in the size of a netbook.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+			<feature>6</feature>
+			<feature>8</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/15_category_better_dm1.png" type="default"/>
+				<color value="" id="1">
+					<img src="images/01_dm1_FrontOpen_AshBlack.png" th_url="images/01_dm1_FrontOpen_AshBlack_thumb.png"/>
+					<img src="images/02_dm1_FrontRightOpen_AshBlack.png" th_url="images/02_dm1_FrontRightOpen_AshBlack_thumb.png"/>
+					<img src="images/03_dm1_RearRightOpen_AshBlack.png" th_url="images/03_dm1_RearRightOpen_AshBlack_thumb.png"/>
+					<img src="images/04_dm1_RearOpen_AshBlack.png" th_url="images/04_dm1_RearOpen_AshBlack_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+				<video name="Beats Audio™" src="videos/feature_beatsaudio.m4v" icon="videos/video_beatsaudio_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Enjoy HD movies, a comfortable keyboard, cooling technology, and an 11-inch diagonal display.*</details_header>
+		<key_features>
+			<ul>
+				<li>Enjoy HD movies*, a comfortable keyboard, cooling technology, and an 11-inch diagonal display.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Support Assistant and MyRoom.</li>
+				<li>HP Premier Experience: Enjoy a faster, easier, and more organized Windows®.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP TrueVision HD with Skype: Capture video or chat in brilliant HD—even in low light.*</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+			
+		</excl_features>
+	</product>	
+	<product wcpc="" id="16" category="3">
+		<name>HP Pavilion g4</name>
+		<description>Keep in touch, get more done, and have some fun. In a dynamic-looking 14-inch design.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/16_category_better_g4.png" type="default"/>
+				<color value="" id="20">
+					<img src="images/01_g4_FrontOpen_WinterBlue.png" th_url="images/01_g4_FrontOpen_WinterBlue_thumb.png"/>
+					<img src="images/02_g4_FrontRightOpen_WinterBlue.png" th_url="images/02_g4_FrontRightOpen_WinterBlue_thumb.png"/>
+					<img src="images/03_g4_RearRightOpen_WinterBlue.png" th_url="images/03_g4_RearRightOpen_WinterBlue_thumb.png"/>
+					<img src="images/04_g4_RearOpen_WinterBlue.png" th_url="images/04_g4_RearOpen_WinterBlue_thumb.png"/>
+				</color>
+				<color value="" id="6">
+					<img src="images/01_g4_FrontOpen_ButterflyBlossom.png" th_url="images/01_g4_FrontOpen_ButterflyBlossom_thumb.png"/>
+					<img src="images/02_g4_FrontRightOpen_ButterflyBlossom.png" th_url="images/02_g4_FrontRightOpen_ButterflyBlossom_thumb.png"/>
+					<img src="images/03_g4_RearRightOpen_ButterflyBlossom.png" th_url="images/03_g4_RearRightOpen_ButterflyBlossom_thumb.png"/>
+					<img src="images/04_g4_RearOpen_ButterflyBlossom.png" th_url="images/04_g4_RearOpen_ButterflyBlossom_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Easily switch between apps. Make video calls. Watch HD movies. All in dynamic HP Imprint designs.*</details_header>
+		<key_features>
+			<ul>
+				<li>Easily switch between apps. Make video calls. Watch HD movies. All in dynamic HP Imprint designs.*</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP MyRoom, Premier Experience, and Support Assistant.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>
+	<product wcpc="" id="17" category="3">
+		<name>HP Pavilion g6</name>
+		<description>Keep in touch, get more done, and have some fun. In a dynamic-looking 15-inch design.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/17_category_better_g6.png" type="default"/>
+				<color value="" id="17">
+					<img src="images/01_g6_FrontOpen_SparklingBlack.png" th_url="images/01_g6_FrontOpen_SparklingBlack_thumb.png"/>
+					<img src="images/02_g6_FrontRightOpen_SparklingBlack.png" th_url="images/02_g6_FrontRightOpen_SparklingBlack_thumb.png"/>
+					<img src="images/03_g6_RearRightOpen_SparklingBlack.png" th_url="images/03_g6_RearRightOpen_SparklingBlack_thumb.png"/>
+					<img src="images/04_g6_RearOpen_SparklingBlack.png" th_url="images/04_g6_RearOpen_SparklingBlack_thumb.png"/>
+				</color>
+				<color value="" id="5">
+					<img src="images/01_g6_FrontOpen_BrightPurple.png" th_url="images/01_g6_FrontOpen_BrightPurple_thumb.png"/>
+					<img src="images/02_g6_FrontRightOpen_BrightPurple.png" th_url="images/02_g6_FrontRightOpen_BrightPurple_thumb.png"/>
+					<img src="images/03_g6_RearRightOpen_BrightPurple.png" th_url="images/03_g6_RearRightOpen_BrightPurple_thumb.png"/>
+					<img src="images/04_g6_RearOpen_BrightPurple.png" th_url="images/04_g6_RearOpen_BrightPurple_thumb.png"/>
+				</color>
+				<color value="" id="10">
+					<img src="images/01_g6_FrontOpen_LinenWhite.png" th_url="images/01_g6_FrontOpen_LinenWhite_thumb.png"/>
+					<img src="images/02_g6_FrontRightOpen_LinenWhite.png" th_url="images/02_g6_FrontRightOpen_LinenWhite_thumb.png"/>
+					<img src="images/03_g6_RearRightOpen_LinenWhite.png" th_url="images/03_g6_RearRightOpen_LinenWhite_thumb.png"/>
+					<img src="images/04_g6_RearOpen_LinenWhite.png" th_url="images/04_g6_RearOpen_LinenWhite_thumb.png"/>
+				</color>
+				<color value="" id="15">
+					<img src="images/01_g6_FrontOpen_RubyRed.png" th_url="images/01_g6_FrontOpen_RubyRed_thumb.png"/>
+					<img src="images/02_g6_FrontRightOpen_RubyRed.png" th_url="images/02_g6_FrontRightOpen_RubyRed_thumb.png"/>
+					<img src="images/03_g6_RearRightOpen_RubyRed.png" th_url="images/03_g6_RearRightOpen_RubyRed_thumb.png"/>
+					<img src="images/04_g6_RearOpen_RubyRed.png" th_url="images/04_g6_RearOpen_RubyRed_thumb.png"/>
+				</color>
+				<color value="" id="20">
+					<img src="images/01_g6_FrontOpen_WinterBlue.png" th_url="images/01_g6_FrontOpen_WinterBlue_thumb.png"/>
+					<img src="images/02_g6_FrontRightOpen_WinterBlue.png" th_url="images/02_g6_FrontRightOpen_WinterBlue_thumb.png"/>
+					<img src="images/03_g6_RearRightOpen_WinterBlue.png" th_url="images/03_g6_RearRightOpen_WinterBlue_thumb.png"/>
+					<img src="images/04_g6_RearOpen_WinterBlue.png" th_url="images/04_g6_RearOpen_WinterBlue_thumb.png"/>
+				</color>
+
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+				<video name="TrueVision HD" src="videos/feature_truevisionHD.m4v" icon="videos/video_truevisionHD_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Easily switch between apps. Make video calls. Watch HD movies. All in dynamic HP Imprint designs.*</details_header>
+		<key_features>
+			<ul>
+				<li>Easily switch between apps. Make video calls. Watch HD movies. All in dynamic HP Imprint designs.*</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP MyRoom, Premier Experience, and Support Assistant.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>
+	<product wcpc="" id="18" category="3">
+		<name>HP Pavilion g7</name>
+		<description>Keep in touch, get more done, and have some fun. In a dynamic-looking 17-inch design.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+			<feature>4</feature>
+			<feature>5</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/18_category_better_g7.png" type="default"/>
+				<color value="" id="17">
+					<img src="images/01_g7_FrontOpen_SparklingBlack.png" th_url="images/01_g7_FrontOpen_SparklingBlack_thumb.png"/>
+					<img src="images/02_g7_FrontRightOpen_SparklingBlack.png" th_url="images/02_g7_FrontRightOpen_SparklingBlack_thumb.png"/>
+					<img src="images/03_g7_RearRightOpen_SparklingBlack.png" th_url="images/03_g7_RearRightOpen_SparklingBlack_thumb.png"/>
+					<img src="images/04_g7_RearOpen_SparklingBlack.png" th_url="images/04_g7_RearOpen_SparklingBlack_thumb.png"/>
+				</color>
+
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+				<video name="ProtectSmart" src="videos/feature_protectsmart.m4v" icon="videos/video_protectsmart_thumb.png"/>
+				<video name="CoolSense" src="videos/feature_coolsense.m4v" icon="videos/video_coolsense_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Easily switch between apps. Make video calls. Watch HD movies. All in dynamic HP Imprint designs.*</details_header>
+		<key_features>
+			<ul>
+				<li>Easily switch between apps. Make video calls. Watch HD movies. All in dynamic HP Imprint designs.*</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP MyRoom, Premier Experience, and Support Assistant.</li>
+				<li>HP ProtectSmart: Automatically helps keep data safe from drops and bumps.</li>
+				<li>HP CoolSense: Automatically keep your PC cool and comfortable on the go.</li>
+			</ul>
+			<foot_note><font size="10"><i>*Internet access required. Sold separately. HD content required to view HD images.</i></font></foot_note>
+		</excl_features>
+	</product>
+	<product wcpc="" id="19" category="4">
+		<name>HP Mini 110</name>
+		<description>Surf the web and stay connected without being weighed down.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/19_category_good_mini110.png" type="default"/>
+				<color value="" id="9">
+					<img src="images/01_Mini110_FrontOpen_GlossyBlack.png" th_url="images/01_Mini110_FrontOpen_GlossyBlack_thumb.png"/>
+					<img src="images/02_Mini110_FrontRightOpen_GlossyBlack.png" th_url="images/02_Mini110_FrontRightOpen_GlossyBlack_thumb.png"/>
+					<img src="images/03_Mini110_RearRightOpen_GlossyBlack.png" th_url="images/03_Mini110_RearRightOpen_GlossyBlack_thumb.png"/>
+					<img src="images/04_Mini110_RearOpen_GlossyBlack.png" th_url="images/04_Mini110_RearOpen_GlossyBlack_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Watch movies, show off photos, and stay in sync on an elegantly curved companion PC.</details_header>
+		<key_features>
+			<ul>
+				<li>Watch movies, show off photos, and stay in sync on an elegantly curved companion PC.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Premier Experience: Enjoy a faster, easier, and more organized Windows.</li>
+				<li>HP Support Assistant: Keep running smoothly with automated help right on your PC.</li>
+				<li>HP MyRoom: IM, chat, send files or share them in a room, easily.</li>
+			</ul>
+		</excl_features>
+	</product>	
+	<product wcpc="" id="20" category="4">
+		<name>Compaq Presario CQ57</name>
+		<description>PC essentials, HD, and full Windows® 7 performance at a surprisingly affordable price.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/20_category_good_cq57.png" type="default"/>
+				<color value="" id="2">
+					<img src="images/01_CQ57_FrontOpen_Black.png" th_url="images/01_CQ57_FrontOpen_Black_thumb.png"/>
+					<img src="images/02_CQ57_FrontRightOpen_Black.png" th_url="images/02_CQ57_FrontRightOpen_Black_thumb.png"/>
+					<img src="images/03_CQ57_RearRightOpen_Black.png" th_url="images/03_CQ57_RearRightOpen_Black_thumb.png"/>
+					<img src="images/04_CQ57_RearOpen_Black.png" th_url="images/04_CQ57_RearOpen_Black_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Full Windows® 7 performance, HD, and the PC essentials you need, along with genuine HP reliability.</details_header>
+		<key_features>
+			<ul>
+				<li>Full Windows® 7 performance, HD, and the PC essentials you need, along with genuine HP reliability.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Premier Experience: Enjoy a faster, easier, and more organized Windows.</li>
+				<li>HP Support Assistant: Keep running smoothly with automated help right on your PC.</li>
+				<li>HP MyRoom: IM, chat, send files or share them in a room, easily.</li>
+			</ul>
+		</excl_features>
+	</product>	
+
+	<product wcpc="" id="21" category="4">
+		<name>HP 2000</name>
+		<description>Social networks, music, videos, and great battery life. Backed by HP reliability.</description>
+		<features>
+			<feature>1</feature>
+			<feature>2</feature>
+			<feature>3</feature>
+		</features>
+		<media>
+			<images>
+				<img src="images/21_category_good_2000.png" type="default"/>
+				<color value="" id="3">
+					<img src="images/01_2000_FrontOpen_BlackLicorice.png" th_url="images/01_2000_FrontOpen_BlackLicorice_thumb.png"/>
+					<img src="images/02_2000_FrontRightOpen_BlackLicorice.png" th_url="images/02_2000_FrontRightOpen_BlackLicorice_thumb.png"/>
+					<img src="images/03_2000_RearRightOpen_BlackLicorice.png" th_url="images/03_2000_RearRightOpen_BlackLicorice_thumb.png"/>
+					<img src="images/04_2000_RearOpen_BlackLicorice.png" th_url="images/04_2000_RearOpen_BlackLicorice_thumb.png"/>
+				</color>
+			</images>
+			<videos>
+				<video name="Premier Experience" src="videos/feature_premierexperience.m4v" icon="videos/video_premierexperience_thumb.png"/>
+			</videos>
+		</media>
+		<details_header>Access social networks, videos, music, and more. Get genuine HP reliability.</details_header>
+		<key_features>
+			<ul>
+				<li>Access social networks, videos, music, and more. Get genuine HP reliability.</li>
+			</ul>	
+		</key_features>
+		<excl_features>
+			<ul>
+				<li>HP Premier Experience: Enjoy a faster, easier, and more organized Windows.</li>
+				<li>HP Support Assistant: Keep running smoothly with automated help right on your PC.</li>
+				<li>HP MyRoom: IM, chat, send files or share them in a room, easily.</li>
+			</ul>
+		</excl_features>
+	</product>
+
+</products>
+
+	
+<colors>
+	<color id="1" value="Ash Black" chip_img="images/chips/ColorChip_AshBlack.png"/>
+	<color id="2" value="Black" chip_img="images/chips/ColorChip_Black.png"/>
+	<color id="3" value="Black Licorice" chip_img="images/chips/ColorChip_BlackLicorice.png"/>
+	<color id="4" value="Nero Black/Natural Silver" chip_img="images/chips/ColorChip_BlackSilver.png"/>
+	<color id="5" value="Bright Purple" chip_img="images/chips/ColorChip_BrightPurple.png"/>
+	<color id="6" value="Butterfly Blossom" chip_img="images/chips/ColorChip_ButterflyBlossom.png"/>
+	<color id="7" value="Charcoal Gray" chip_img="images/chips/ColorChip_CharcoalGray.png"/>
+	<color id="8" value="Dark Umber" chip_img="images/chips/ColorChip_DarkUmber.png"/>
+	<color id="9" value="Glossy Black" chip_img="images/chips/ColorChip_GlossyBlack.png"/>
+	<color id="10" value="Linen White" chip_img="images/chips/ColorChip_LinenWhite.png"/>
+	<color id="11" value="Midnight Black" chip_img="images/chips/ColorChip_MidnightBlack.png"/>
+	<color id="12" value="Natural Silver" chip_img="images/chips/ColorChip_NaturalSilver.png"/>
+	<color id="13" value="Pacific Blue" chip_img="images/chips/ColorChip_PacificBlue.png"/>
+	<color id="14" value="Pewter" chip_img="images/chips/ColorChip_Pewter.png"/>
+	<color id="15" value="Ruby Red" chip_img="images/chips/ColorChip_RubyRed.png"/>
+	<color id="16" value="Sonoma Red" chip_img="images/chips/ColorChip_SonomaRed.png"/>
+	<color id="17" value="Sparkling Black" chip_img="images/chips/ColorChip_SparklingBlack.png"/>
+	<color id="18" value="Steel Gray" chip_img="images/chips/ColorChip_SteelGray.png"/>
+	<color id="19" value="Sweet Purple" chip_img="images/chips/ColorChip_SweetPurple.png"/>
+	<color id="20" value="Winter Blue" chip_img="images/chips/ColorChip_WinterBlue.png"/>
+</colors>
+
+<mpns>
+<!--Ultimate HP ENVY Spectre XT-->
+	<mpn product_id="1" color_id="12">B5S01UA</mpn>
+	<mpn product_id="1" color_id="12">B5Q86UA</mpn>
+<!--Ultimate HP ENVY 14 Spectre-->
+	<mpn product_id="2" color_id="4">A9P67UA</mpn>
+	<mpn product_id="2" color_id="4">A9P68UA</mpn>
+<!--Ultimate HP ENVY 15-->
+	<mpn product_id="3" color_id="4">B5Q55UA</mpn>
+	<mpn product_id="3" color_id="4">B5Q56UA</mpn>
+<!--Ultimate HP ENVY 17--> 
+	<mpn product_id="4" color_id="4">A9P84UA</mpn>
+	<mpn product_id="4" color_id="4">B5Q70UA</mpn>
+<!--Ultimate HP ENVY 17 3D--> 
+	<mpn product_id="5" color_id="4">A9P83UA</mpn>
+
+<!--Best HP Pavilion dm4-->  
+	<mpn product_id="6" color_id="18">B5K52UA</mpn>
+<!--Best HP Pavilion dm4 Beats™ Edition-->  
+	<mpn product_id="7" color_id="11">A6X83UA</mpn>
+<!--Best HP Pavilion dv6-->  
+	<mpn product_id="8" color_id="11">B5S11UA</mpn>
+	<mpn product_id="8" color_id="11">B5S13UA</mpn>
+	<mpn product_id="8" color_id="11">B4T90UA</mpn>
+	<mpn product_id="8" color_id="11">B4T94UA</mpn>
+	<mpn product_id="8" color_id="11">B4U01UA</mpn>
+	<mpn product_id="8" color_id="11">B5S12UA</mpn>
+	<mpn product_id="8" color_id="11">B4T93UA</mpn>
+	<mpn product_id="8" color_id="11">B4T98UA</mpn>
+	<mpn product_id="8" color_id="11">B5R00UA</mpn>
+	<mpn product_id="8" color_id="11">B5R01UA</mpn>
+	<mpn product_id="8" color_id="11">B4T99UA</mpn>
+	<mpn product_id="8" color_id="11">B4U00UA</mpn>
+	<mpn product_id="8" color_id="11">B4U02UA</mpn>
+	<mpn product_id="8" color_id="11">B5R05UA</mpn>
+	<mpn product_id="8" color_id="11">B4U05UA</mpn>
+	<mpn product_id="8" color_id="11">B5R06UA</mpn>
+	<mpn product_id="8" color_id="11">B5S15UA</mpn>
+<!--Best HP Pavilion m6-->  
+	<mpn product_id="9" color_id="11">B5S06UA</mpn>
+	<mpn product_id="9" color_id="12">B5S08UA</mpn>
+<!--Best HP Pavilion dv7-->  
+	<mpn product_id="10" color_id="11">B4T67UA</mpn>
+	<mpn product_id="10" color_id="11">B5R45UA</mpn>
+	<mpn product_id="10" color_id="11">B4T71UA</mpn>
+	<mpn product_id="10" color_id="11">B4T68UA</mpn>
+	<mpn product_id="10" color_id="11">B4T72UA</mpn>
+	<mpn product_id="10" color_id="11">B5R46UA</mpn>
+	<mpn product_id="10" color_id="11">B5R49UA</mpn>
+	<mpn product_id="10" color_id="11">B4T74UA</mpn>
+	<mpn product_id="10" color_id="11">B4T75UA</mpn>
+	<mpn product_id="10" color_id="11">B4T77UA</mpn>
+	<mpn product_id="10" color_id="11">B4T76UA</mpn>
+<!--Best HP Pavilion m7-->  
+	<mpn product_id="11" color_id="12">B4T70UA</mpn>
+<!--Best HP ENVY 6 Sleekbook-->  
+	<mpn product_id="12" color_id="11">B5T12UA</mpn>
+	<mpn product_id="12" color_id="11">B5Q46UA</mpn>
+	<mpn product_id="12" color_id="11">B5Q41UA</mpn>
+	<mpn product_id="12" color_id="11">B5Q43UA</mpn>
+	<mpn product_id="12" color_id="11">B5T15UA</mpn>
+	<mpn product_id="12" color_id="11">B5Q40UA</mpn>
+	<mpn product_id="12" color_id="11">B5Q47UA</mpn>
+	<mpn product_id="12" color_id="11">B5Q42UA</mpn>
+	<mpn product_id="12" color_id="11">B5T16UA</mpn>
+<!--Best HP ENVY 4 Sleekbook-->  
+	<mpn product_id="13" color_id="11">B5T03UA</mpn>
+	<mpn product_id="13" color_id="11">B5K90UA</mpn>
+<!--Best HP ENVY 4 Ultrabook™-->  
+	<mpn product_id="14" color_id="11">B5T05UA</mpn>
+	<mpn product_id="14" color_id="11">B5K94UA</mpn>
+	<mpn product_id="14" color_id="11">B5T08UA</mpn>
+	<mpn product_id="14" color_id="11">B5T04UA</mpn>
+	<mpn product_id="14" color_id="11">B5K91UA</mpn>
+	<mpn product_id="14" color_id="11">B5T09UA</mpn>
+
+<!--Better HP Pavilion dm1-->  
+	<mpn product_id="15" color_id="1">A6X47UA</mpn>
+<!--Better HP Pavilion g4-->  
+	<mpn product_id="16" color_id="20">B5J87UA</mpn>
+	<mpn product_id="16" color_id="6">B5R68UA</mpn>
+	<mpn product_id="16" color_id="6">B5Z60UA</mpn>
+<!--Better HP Pavilion g6-->  
+	<mpn product_id="17" color_id="7">B7D23UA</mpn>
+	<mpn product_id="17" color_id="17">B5R80UA</mpn>
+	<mpn product_id="17" color_id="10">B5A26UA</mpn>
+	<mpn product_id="17" color_id="5">B5A27UA</mpn>
+	<mpn product_id="17" color_id="15">B5A28UA</mpn>
+	<mpn product_id="17" color_id="20">B5A29UA</mpn>
+	<mpn product_id="17" color_id="17">B5A02UA</mpn>
+	<mpn product_id="17" color_id="17">B5A33UA</mpn>
+	<mpn product_id="17" color_id="17">B5A24UA</mpn>
+	<mpn product_id="17" color_id="17">B5A30UA</mpn>
+	<mpn product_id="17" color_id="17">B5A20UA</mpn>
+	<mpn product_id="17" color_id="15">B5A25UA</mpn>
+	<mpn product_id="17" color_id="17">B5A04UA</mpn>
+	<mpn product_id="17" color_id="17">B4Z98UA</mpn>
+	<mpn product_id="17" color_id="20">B4Z99UA</mpn>
+	<mpn product_id="17" color_id="15">B5A00UA</mpn>
+	<mpn product_id="17" color_id="5">B5A01UA</mpn>
+	<mpn product_id="17" color_id="17"> B5A37UA</mpn>
+	<mpn product_id="17" color_id="17">B5A08UA</mpn>
+	<mpn product_id="17" color_id="17">B5A35UA</mpn>
+<!--Better HP Pavilion g7-->  
+	<mpn product_id="18" color_id="17">B5R84UA</mpn>
+	<mpn product_id="18" color_id="17">B5Z48UA</mpn>
+	<mpn product_id="18" color_id="17">B4Z72UA</mpn>
+	<mpn product_id="18" color_id="17">B4Z74UA</mpn>
+	<mpn product_id="18" color_id="17">B5Z50UA</mpn>
+	<mpn product_id="18" color_id="17">B5Z45UA</mpn>
+	<mpn product_id="18" color_id="17">B5Z47UA</mpn>
+	<mpn product_id="18" color_id="17">B5V77UA</mpn>
+	<mpn product_id="18" color_id="17">B4Z69UA</mpn>
+	<mpn product_id="18" color_id="17">B5Z46UA</mpn>
+	<mpn product_id="18" color_id="17">B5Z49UA</mpn>
+	<mpn product_id="18" color_id="17">B4Z73UA</mpn>
+
+<!--Good HP Mini 110-->  
+	<mpn product_id="19" color_id="9">B5S14UA</mpn>	
+<!--Good Compaq Presario CQ57-->  
+	<mpn product_id="20" color_id="2">A7A60UA</mpn>
+<!--Good HP 2000-->  
+	<mpn product_id="21" color_id="3">B5D45UA</mpn>
+	<mpn product_id="21" color_id="3">B5R65UA</mpn>
+	<mpn product_id="21" color_id="3">B5F62UA</mpn>
+	<mpn product_id="21" color_id="3">B5D46UA</mpn>
+	<mpn product_id="21" color_id="3">B5D43UA</mpn>
+	<mpn product_id="21" color_id="3">B5F64UA</mpn>
+	<mpn product_id="21" color_id="3">B5F68UA</mpn>
+	<mpn product_id="21" color_id="3">B5F69UA</mpn>
+	<mpn product_id="21" color_id="3">B5F63UA</mpn>
+	<mpn product_id="21" color_id="3">B5F65UA</mpn>
+	<mpn product_id="21" color_id="3">B5D50UA</mpn>
+	<mpn product_id="21" color_id="3">B5D51UA</mpn>
+	<mpn product_id="21" color_id="3">B5D49UA</mpn>
+</mpns>
+		
+<categories>
+	<category id="1" name="Ultimate" header="Incredible innovations. Unmatched reliability." footer=""/>
+	<category id="2" name="Best" header="Outstanding entertainment and performance in any size." footer="Get the ultimate"/>
+	<category id="3" name="Better" header="Packed with power and more exclusive HP features." footer="Get the best"/>
+	<category id="4" name="Good" header="Affordable notebooks and netbooks that do more." footer="Get better"/>	
+</categories>	
+
+<chart>
+	<feature title="Support Assistant" id="1"/>
+	<feature title="MyRoom" id="2"/>
+	<feature title="Premier Experience" id="3"/>
+	<feature title="ProtectSmart" id="4"/>
+	<feature title="CoolSense" id="5"/>
+	<feature title="TrueVision HD" id="6"/>
+	<feature title="SimplePass" id="7"/>
+	<feature title="Beats Audio™" id="8"/>
+	<feature title="Imagepad" id="9"/>
+	<feature title="Backlit Keyboard" id="10"/>
+	<feature title="Wireless Audio" id="11"/>
+	<feature title="Platinum Support" id="12"/>
+	<feature title="3D Display and Glasses" id="13"/>
+</chart>	
+</response>
