@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+<mpns>
+
+<!--Ultimate HP ENVY Spectre XT-->
+	<product mpn="B5S01UA" wcpc=""/>
+	<product mpn="B5Q86UA" wcpc=""/>
+<!--Ultimate HP ENVY 14 Spectre-->
+	<product mpn="A9P67UA" wcpc=""/>
+	<product mpn="A9P68UA" wcpc=""/>
+<!--Ultimate HP ENVY 15-->
+	<product mpn="B5Q55UA" wcpc=""/>
+	<product mpn="B5Q56UA" wcpc=""/>
+<!--Ultimate HP ENVY 17--> 
+	<product mpn="A9P84UA" wcpc=""/>
+	<product mpn="B5Q70UA" wcpc=""/>
+<!--Ultimate HP ENVY 17 3D--> 
+	<product mpn="A9P83UA" wcpc=""/>
+
+<!--Best HP Pavilion dm4-->  
+	<product mpn="B5K52UA" wcpc=""/>
+<!--Best HP Pavilion dm4 Beats™ Edition-->  
+	<product mpn="A6X83UA" wcpc=""/>
+<!--Best HP Pavilion dv6-->  
+	<product mpn="B5S11UA" wcpc=""/>
+	<product mpn="B5S13UA" wcpc=""/>
+	<product mpn="B4T90UA" wcpc=""/>
+	<product mpn="B4T94UA" wcpc=""/>
+	<product mpn="B4U01UA" wcpc=""/>
+	<product mpn="B5S12UA" wcpc=""/>
+	<product mpn="B4T93UA" wcpc=""/>
+	<product mpn="B4T98UA" wcpc=""/>
+	<product mpn="B5R00UA" wcpc=""/>
+	<product mpn="B5R01UA" wcpc=""/>
+	<product mpn="B4T99UA" wcpc=""/>
+	<product mpn="B4U00UA" wcpc=""/>
+	<product mpn="B4U02UA" wcpc=""/>
+	<product mpn="B5R05UA" wcpc=""/>
+	<product mpn="B4U05UA" wcpc=""/>
+	<product mpn="B5R06UA" wcpc=""/>
+	<product mpn="B5S15UA" wcpc=""/>
+<!--Best HP Pavilion m6-->  
+	<product mpn="B5S06UA" wcpc=""/>
+	<product mpn="B5S08UA" wcpc=""/>
+<!--Best HP Pavilion dv7-->  
+	<product mpn="B4T67UA" wcpc=""/>
+	<product mpn="B5R45UA" wcpc=""/>
+	<product mpn="B4T71UA" wcpc=""/>
+	<product mpn="B4T68UA" wcpc=""/>
+	<product mpn="B4T72UA" wcpc=""/>
+	<product mpn="B5R46UA" wcpc=""/>
+	<product mpn="B5R49UA" wcpc=""/>
+	<product mpn="B4T74UA" wcpc=""/>
+	<product mpn="B4T75UA" wcpc=""/>
+	<product mpn="B4T77UA" wcpc=""/>
+	<product mpn="B4T76UA" wcpc=""/>
+<!--Best HP Pavilion m7-->  
+	<product mpn="B4T70UA" wcpc=""/>
+<!--Best HP ENVY 6 Sleekbook-->  
+	<product mpn="B5T12UA" wcpc=""/>
+	<product mpn="B5Q46UA" wcpc=""/>
+	<product mpn="B5Q41UA" wcpc=""/>
+	<product mpn="B5Q43UA" wcpc=""/>
+	<product mpn="B5T15UA" wcpc=""/>
+	<product mpn="B5Q40UA" wcpc=""/>
+	<product mpn="B5Q47UA" wcpc=""/>
+	<product mpn="B5Q42UA" wcpc=""/>
+	<product mpn="B5T16UA" wcpc=""/>
+<!--Best HP ENVY 4 Sleekbook-->  
+	<product mpn="B5T03UA" wcpc=""/>
+	<product mpn="B5K90UA" wcpc=""/>
+<!--Best HP ENVY 4 Ultrabook™-->  
+	<product mpn="B5T05UA" wcpc=""/>
+	<product mpn="B5K94UA" wcpc=""/>
+	<product mpn="B5T08UA" wcpc=""/>
+	<product mpn="B5T04UA" wcpc=""/>
+	<product mpn="B5K91UA" wcpc=""/>
+	<product mpn="B5T09UA" wcpc=""/>
+
+<!--Better HP Pavilion dm1-->  
+	<product mpn="A6X47UA" wcpc=""/>
+<!--Better HP Pavilion g4-->  
+	<product mpn="B5J87UA" wcpc=""/>
+	<product mpn="B5R68UA" wcpc=""/>
+	<product mpn="B5Z60UA" wcpc=""/>
+<!--Better HP Pavilion g6-->  
+	<product mpn="B7D23UA" wcpc=""/>
+	<product mpn="B5R80UA" wcpc=""/>
+	<product mpn="B5A26UA" wcpc=""/>
+	<product mpn="B5A27UA" wcpc=""/>
+	<product mpn="B5A28UA" wcpc=""/>
+	<product mpn="B5A29UA" wcpc=""/>
+	<product mpn="B5A02UA" wcpc=""/>
+	<product mpn="B5A33UA" wcpc=""/>
+	<product mpn="B5A24UA" wcpc=""/>
+	<product mpn="B5A30UA" wcpc=""/>
+	<product mpn="B5A20UA" wcpc=""/>
+	<product mpn="B5A25UA" wcpc=""/>
+	<product mpn="B5A04UA" wcpc=""/>
+	<product mpn="B4Z98UA" wcpc=""/>
+	<product mpn="B4Z99UA" wcpc=""/>
+	<product mpn="B5A00UA" wcpc=""/>
+	<product mpn="B5A01UA" wcpc=""/>
+	<product mpn="B5A37UA" wcpc=""/>
+	<product mpn="B5A08UA" wcpc=""/>
+	<product mpn="B5A35UA" wcpc=""/>
+<!--Better HP Pavilion g7-->  
+	<product mpn="B5R84UA" wcpc=""/>
+	<product mpn="B5Z48UA" wcpc=""/>
+	<product mpn="B4Z72UA" wcpc=""/>
+	<product mpn="B4Z74UA" wcpc=""/>
+	<product mpn="B5Z50UA" wcpc=""/>
+	<product mpn="B5Z45UA" wcpc=""/>
+	<product mpn="B5Z47UA" wcpc=""/>
+	<product mpn="B5V77UA" wcpc=""/>
+	<product mpn="B4Z69UA" wcpc=""/>
+	<product mpn="B5Z46UA" wcpc=""/>
+	<product mpn="B5Z49UA" wcpc=""/>
+	<product mpn="B4Z73UA" wcpc=""/>
+
+<!--Good HP Mini 110-->  
+	<product mpn="B5S14UA" wcpc=""/>
+<!--Good Compaq Presario CQ57-->  
+	<product mpn="A7A60UA" wcpc=""/>
+<!--Good HP 2000-->  
+	<product mpn="B5D45UA" wcpc=""/>
+	<product mpn="B5R65UA" wcpc=""/>
+	<product mpn="B5F62UA" wcpc=""/>
+	<product mpn="B5D46UA" wcpc=""/>
+	<product mpn="B5D43UA" wcpc=""/>
+	<product mpn="B5F64UA" wcpc=""/>
+	<product mpn="B5F68UA" wcpc=""/>
+	<product mpn="B5F69UA" wcpc=""/>
+	<product mpn="B5F63UA" wcpc=""/>
+	<product mpn="B5F65UA" wcpc=""/>
+	<product mpn="B5D50UA" wcpc=""/>
+	<product mpn="B5D51UA" wcpc=""/>
+	<product mpn="B5D49UA" wcpc=""/>
+</mpns>		
+</response>
